@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "213206743238",
+    "firebase_url": "https://chatbot-c3bae.firebaseio.com",
+    "project_id": "chatbot-c3bae",
+    "storage_bucket": "chatbot-c3bae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213206743238:android:fb69c3c8ec998b2f",
+        "android_client_info": {
+          "package_name": "com.example.a3embed.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213206743238-i9r8rh8m7gekketg51ufjrgg9kfoiqi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a3embed.firebasecloudmessaging",
+            "certificate_hash": "7f87ccbf631146b8d9bbd74c5619d4d06a11f70f"
+          }
+        },
+        {
+          "client_id": "213206743238-j47n9dh36tu986mij1tn0ituejpquas4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANMASOY-YHxBYL_LYmVRyXqGiVJ4hW0tk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213206743238-7ppv75hols0fq1b85ki48gtk5er42tkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
