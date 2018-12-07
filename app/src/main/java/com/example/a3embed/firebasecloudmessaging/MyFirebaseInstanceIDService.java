@@ -5,6 +5,13 @@ import android.util.Log;
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.FirebaseInstanceIdService;
 
+/**
+ * MyFirebaseInstanceIDService.java
+ * Get the token id from the FireBase
+ *
+ * @version 1.0 07 Dec 2018
+ * @author Pradyot Prakash
+ */
 public class MyFirebaseInstanceIDService extends FirebaseInstanceIdService {
 
 

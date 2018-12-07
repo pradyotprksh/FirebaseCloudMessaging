@@ -11,6 +11,14 @@ import android.support.v4.app.NotificationCompat;
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
 
+/**
+ * MyFirebaseMessagingService.java
+ * Service For FCM which checks for any
+ * message and show the notification
+ *
+ * @version 1.0 07 Dec 2018
+ * @author Pradyot Prakash
+ */
 public class MyFirebaseMessagingService extends FirebaseMessagingService {
 
     @Override
@@ -19,6 +27,12 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
     }
 
 
+    /**
+     * <h>sendMyNotification(Message)</h>
+     * <p>Show the notification to the user when received
+     *    and when clicked open the MainActivity
+     * </p>
+     */
     private void sendMyNotification(String message) {
 
         //On click of notification it redirect to this Activity
